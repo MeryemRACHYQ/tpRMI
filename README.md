@@ -1,4 +1,4 @@
-# tpRMI
+# gestion des salles et machines 
 Cette application a été développée pour superviser les salles et les machines 
 à travers une interface graphique conviviale en Swing. Elle utilise Hibernate
 pour la gestion de la persistance des données et RMI (Invocation de Méthode à 
